@@ -1,0 +1,59 @@
+
+body{
+    background-color:#f8edd1;
+    color:#df8080;
+    font-family: 'Bangers', cursive;
+    font-family: 'Capriola', sans-serif;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 20px;
+}
+
+p{
+    color:black;
+}
+
+h3{
+    color:rgb(212, 91, 115);
+    text-align: center;
+    background-color: rgb(249, 218, 182);
+}
+
+.titulo{
+    color: #f12f5d;
+    text-align: center;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 50px;
+}
+
+img{
+    width: 300px; 
+}
+
+img{
+    width: 300px;
+    display: flex;
+    margin-left: 40%;
+}
+
+a{
+    color:deeppink;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+}
+
+.formulario{
+    text-align: center;
+}
+
+/*
+selector{
+    flex-direction:column;
+    propiedad:valor;
+    border-radius: propiedad para hacer los bordes de una imagen redondo
+}
+*/
